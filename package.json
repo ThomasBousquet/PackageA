@@ -12,5 +12,5 @@
   "author": {
     "name": "TB"
   },
-  "hideInEditor": false
+  "type": "library"
 }
