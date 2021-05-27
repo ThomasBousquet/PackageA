@@ -1,0 +1,16 @@
+{
+  "name": "com.thomasbousquet.packagea",
+  "version": "0.0.1",
+  "displayName": "Package A",
+  "description": "Package for Test. Package A has a dependency on B",
+  "unity": "2019.2",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "TB"
+  },
+  "hideInEditor": false
+}
